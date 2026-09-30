@@ -35,7 +35,7 @@ To paste questions into the app, use the following strict format:
 (b) Only behaviour
 (c) Only mind
 (d) Human biology 
-</A>
+</A>```
 
 🛠️ Tech Stack
 HTML5 / CSS3 / JavaScript (Modular Structure)
