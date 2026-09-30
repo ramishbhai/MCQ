@@ -35,16 +35,13 @@ To paste questions into the app, use the following strict format:
 (b) Only behaviour
 (c) Only mind
 (d) Human biology 
-</A>```
+</A>
 
-🛠️ Tech Stack
-HTML5 / CSS3 / JavaScript (Modular Structure)
+## 🛠️ Tech Stack
+* **HTML5 / CSS3 / JavaScript** (Modular Structure)
+* **Tailwind CSS** (Styling & Responsiveness)
+* **PeerJS** (WebRTC for Multiplayer Remote Control)
+* **Canvas Confetti** (Celebration Animations)
 
-Tailwind CSS (Styling & Responsiveness)
-
-PeerJS (WebRTC for Multiplayer Remote Control)
-
-Canvas Confetti (Celebration Animations)
-
-👨‍💻 Developed By
-Ramish Bhai
+## 👨‍💻 Developed By
+**Ramish Bhai**
